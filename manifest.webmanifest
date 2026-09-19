@@ -1,0 +1,17 @@
+{
+  "name": "공부알 탐험대",
+  "short_name": "공부알",
+  "description": "퀴즈를 풀어 능력치를 키우고, 알을 차서 지역을 탐험하고, 펫을 모아 도감을 완성하는 픽셀 아트 게임",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#150f26",
+  "theme_color": "#1b1430",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
